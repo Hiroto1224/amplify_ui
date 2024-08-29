@@ -18,7 +18,7 @@ packages:
     source: hosted
     version: "0.4.5"
   amplify_auth_cognito:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: amplify_auth_cognito
       sha256: "661473364cbd13d6583209f63e7e9e6da967b5d973967f28d6ccb0a28831a880"
@@ -66,7 +66,7 @@ packages:
     source: hosted
     version: "0.4.6"
   amplify_flutter:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: amplify_flutter
       sha256: e497564f3a7c435fa11d09944868f0141093c73684bb7816fca6323f0b848f18
